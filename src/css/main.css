@@ -1,0 +1,29 @@
+.bg-back{
+    background-color: darkslategrey;
+}
+
+#container{
+    width: 100%;
+    overflow: hidden;
+}
+
+#content{
+    
+    width:75%;
+    min-height:800px;
+    padding: 10px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    float: left;
+    border-top: 5px solid gray;
+}
+
+#sidebar{
+    width:25%;
+    min-height:800px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    background-color:darkslategrey;
+    border-top: 5px solid gray;
+}
